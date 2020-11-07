@@ -15,7 +15,8 @@
 |
 */
 //$config['base_url']	= 'http://localhost/blogs/ciforum/';
-$config['base_url']	= 'http://localhost/isl_forum_simple_codeigniter/';
+// $config['base_url']	= 'http://localhost/isl_forum_simple_codeigniter/';
+$config['base_url']	= 'http://local.rocket.co.in:8081/forum.test/isl_forum_simple_codeigniter/';
 
 /*
 |--------------------------------------------------------------------------
